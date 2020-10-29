@@ -4,7 +4,7 @@
   "main": "lib/index.js",
   "license": "MIT",
   "dependencies": {
-    "postcss": "^7.0.32"
+    "postcss": "^8.0.0"
   },
   "devDependencies": {
     "jest": "^26.0.1",
